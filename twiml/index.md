@@ -22,7 +22,7 @@ Outgoing calls and SMS messages are controlled in the same manner as incoming ca
 The initial URL for the call is provided as a parameter to the Twilio [REST API](/docs/api/rest) 
 method used initiate the call.  See the [making calls](/docs/api/rest/making_calls)
 section of the REST documentation for more information on initiating outgoing calls. 
-See the [sending SMS messages](/docs/api/rest/sending-sms) section of the REST documentation for more
+See the [sending SMS messages](/rest/sending-sms.md) section of the REST documentation for more
 information on sending SMS messages.
 
 ### How Twilio Interacts with Your Application {#twilio-interaction}
