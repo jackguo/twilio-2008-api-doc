@@ -1,0 +1,165 @@
+[
+    {
+        "title": "REST API Usage",
+        "links": [
+            {
+                "title": "Overview",
+                "path": "/docs/api/2008-08-01/rest"
+            },
+            {
+                "title": "Your Request",
+                "path": "/docs/api/2008-08-01/rest/request"
+            },
+            {
+                "title": "Twilio's Response",
+                "path": "/docs/api/2008-08-01/rest/response"
+            },
+            {
+                "title": "Send SMS Messages",
+                "path": "/docs/api/2008-08-01/rest/sending-sms"
+            },
+            {
+                "title": "Make Calls",
+                "path": "/docs/api/2008-08-01/rest/making-calls"
+            },
+            {
+                "title": "Change Call State",
+                "path": "/docs/api/2008-08-01/rest/change-call-state"
+            },
+            {
+                "title": "Tips & Tricks",
+                "path": "/docs/api/2008-08-01/rest/tips"
+            }
+        ]
+    },
+
+    {
+        "title": "Resources",
+        "links": [
+            {
+                "title": "Accounts",
+                "path": "/docs/api/2008-08-01/rest/account"
+            },
+            {
+                "title": "Calls",
+                "path": "/docs/api/2008-08-01/rest/call"
+            },
+            {
+                "title": "Conferences",
+                "path": "/docs/api/2008-08-01/rest/conference"
+            },
+            {
+                "title": "Incoming Phone Numbers",
+                "path": "/docs/api/2008-08-01/rest/incoming-phone-numbers"
+            },
+            {
+                "title": "Notifications",
+                "path": "/docs/api/2008-08-01/rest/notification"
+            },
+            {
+                "title": "Outgoing Caller IDs",
+                "path": "/docs/api/2008-08-01/rest/outgoing-caller-ids"
+            },
+            {
+                "title": "Recordings",
+                "path": "/docs/api/2008-08-01/rest/recording"
+            },
+            {
+                "title": "Short Codes",
+                "path": "/docs/api/2008-08-01/rest/short-codes"
+            },
+            {
+                "title": "SMS Messages",
+                "path": "/docs/api/2008-08-01/rest/sms"
+            },
+            {
+                "title": "Transcriptions",
+                "path": "/docs/api/2008-08-01/rest/transcription"
+            }
+        ]
+    },
+
+    {
+        "title": "Voice TwiML",
+        "links": [
+            {
+                "title": "Overview",
+                "path": "/docs/api/2008-08-01/twiml"
+            },
+            {
+                "title": "XML Verbs",
+                "path": "/docs/api/2008-08-01/twiml/xml_verbs"
+            },
+            {
+                "title": "Twilio's Request",
+                "path": "/docs/api/2008-08-01/twiml/twilio_request"
+            },
+            {
+                "title": "Your Response",
+                "path": "/docs/api/2008-08-01/twiml/your_response"
+            },
+            {
+                "title": "<Conference>",
+                "path": "/docs/api/2008-08-01/twiml/conference"
+            },
+            {
+                "title": "<Dial>",
+                "path": "/docs/api/2008-08-01/twiml/dial"
+            },
+            {
+                "title": "<Gather>",
+                "path": "/docs/api/2008-08-01/twiml/gather"
+            },
+            {
+                "title": "<Hangup>",
+                "path": "/docs/api/2008-08-01/twiml/hangup"
+            },
+            {
+                "title": "<Pause>",
+                "path": "/docs/api/2008-08-01/twiml/pause"
+            },
+            {
+                "title": "<Play>",
+                "path": "/docs/api/2008-08-01/twiml/play"
+            },
+            {
+                "title": "<Record>",
+                "path": "/docs/api/2008-08-01/twiml/record"
+            },
+            {
+                "title": "<Redirect>",
+                "path": "/docs/api/2008-08-01/twiml/redirect"
+            },
+            {
+                "title": "<Say>",
+                "path": "/docs/api/2008-08-01/twiml/say"
+            },
+            {
+                "title": "<Sms>",
+                "path": "/docs/api/2008-08-01/twiml/sms"
+            }
+        ]
+    },
+
+    {
+        "title": "SMS TwiML",
+        "links": [
+            {
+                "title": "Twilio's Request",
+                "path": "/docs/api/2008-08-01/twiml/sms/twilio_request"
+            },
+            {
+                "title": "Your Response",
+                "path": "/docs/api/2008-08-01/twiml/sms/your_response"
+            },
+            {
+                "title": "<Sms>",
+                "path": "/docs/api/2008-08-01/twiml/sms/sms"
+            },
+            {
+                "title": "<Redirect>",
+                "path": "/docs/api/2008-08-01/twiml/sms/redirect"
+            }
+        ]
+    }
+]
